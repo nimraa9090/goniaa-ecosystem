@@ -126,10 +126,9 @@ goniaa-ecosystem/
 
 > _Add 3–5 real screenshots or a short GIF of the storefront, the dashboard, and the mobile app here — this section converts recruiters faster than any text._
 
-| Storefront | Brand Manager Dashboard | Mobile App | Admin
-|---|---|---|
-| _screenshot_ | _screenshot_ | _screenshot_ |## 📸 App Screenshots
+## 📸 Screenshots
 
+### 🛠️ Admin Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0cc764c6-da68-44ce-ada4-ae9f65d2a977" width="100%" />
   <img src="https://github.com/user-attachments/assets/8a2b82b1-6db7-4506-a4d3-63ca66b41311" width="100%" />
@@ -139,6 +138,31 @@ goniaa-ecosystem/
   <img src="https://github.com/user-attachments/assets/6214a599-9b69-4bf6-bbf5-26c7a4741d8c" width="100%" />
 </p>
 
+### 🤖 Brand Manager Screenshots
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/22dabf19-9f00-46f4-bac2-1d2bcb172166" width="100%" />
+  <img src="https://github.com/user-attachments/assets/3758537c-6331-4980-a245-015a12d13f22" width="100%" />
+  <img src="https://github.com/user-attachments/assets/88fd89ce-6ae2-4a1b-be12-9c410a774c0e" width="100%" />
+  <img src="https://github.com/user-attachments/assets/2bd6c9d2-5de9-49f5-8649-6b3ad8505ac4" width="100%" />
+  <img src="https://github.com/user-attachments/assets/8a6945e8-41d6-4bd4-ad08-bc81e0c00fa3" width="100%" />
+  <img src="https://github.com/user-attachments/assets/0d02f274-1a12-4ba6-8fc3-3912f7ffa721" width="100%" />
+  <img src="https://github.com/user-attachments/assets/a3880585-b758-4200-86f6-28893a6b0030" width="100%" />
+  <img src="https://github.com/user-attachments/assets/d690de1f-964b-4380-b043-d987a4fce398" width="100%" />
+  <img src="https://github.com/user-attachments/assets/715f3351-3d77-4f96-acfa-6745cbbd4824" width="100%" />
+  <img src="https://github.com/user-attachments/assets/564fce12-b93f-4d0d-b167-ab33f2f9594c" width="100%" />
+  <img src="https://github.com/user-attachments/assets/18e0a66b-8f8c-471e-8167-32ac306e9ccd" width="100%" />
+</p>
+
+### 🛒 Storefront Preview
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/54c007a6-6169-4783-b30b-6bb37884104c" width="100%" />
+  <img src="https://github.com/user-attachments/assets/cfb8e46b-3198-46b2-bb25-477e64e0f8b4" width="100%" />
+  <img src="https://github.com/user-attachments/assets/aa296579-9a77-44c2-99b1-f5a7d70026f2" width="100%" />
+  <img src="https://github.com/user-attachments/assets/959982f1-6964-4584-8597-7f3f5d388de8" width="100%" />
+  <img src="https://github.com/user-attachments/assets/b4c05fcd-4287-4918-b2c5-a4b14f0736bc" width="100%" />
+  <img src="https://github.com/user-attachments/assets/f35f7bfc-d789-472d-954f-96471bf7d3bf" width="100%" />
+  <img src="https://github.com/user-attachments/assets/e35119e8-9553-4c2a-9c82-2468ca9d9f3a" width="100%" />
+</p>
 ---
 
 ## Roadmap

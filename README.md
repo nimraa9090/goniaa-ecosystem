@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  <a href="https://goniaa.pk"><img src="https://img.shields.io/badge/🌐_Live_Website-Visit-1E3A8A?style=for-the-badge" /></a>
+  <a href="https://goniaapk.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Website-Visit-1E3A8A?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/📱_Mobile_APK-Download-1E3A8A?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/🎥_Video_Demo-Watch-1E3A8A?style=for-the-badge" /></a>
   <a href="https://github.com/nimraa9090"><img src="https://img.shields.io/badge/💻_GitHub-Profile-1E3A8A?style=for-the-badge" /></a>

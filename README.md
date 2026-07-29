@@ -124,10 +124,6 @@ goniaa-ecosystem/
 
 ## Screenshots
 
-> _Add 3–5 real screenshots or a short GIF of the storefront, the dashboard, and the mobile app here — this section converts recruiters faster than any text._
-
-## 📸 Screenshots
-
 ### 🛠️ Admin Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0cc764c6-da68-44ce-ada4-ae9f65d2a977" width="100%" />
@@ -179,4 +175,4 @@ goniaa-ecosystem/
 **Nimra** — Founder & Solo Developer, Goniaa
 BS Artificial Intelligence, Hazara University (Expected 2027)
 
-[Portfolio](https://goniaa.pk) · [GitHub](https://github.com/nimraa9090) · [LinkedIn](#)
+[Portfolio](#) · [GitHub](https://github.com/nimraa9090) · [LinkedIn](#)

@@ -3,4 +3,7 @@
 ## Storefront
 https://goniaapk.vercel.app/
 
-## Mobile App Demo
+## Admin App Demo video
+https://youtu.be/_A_m1H1MEU0
+
+## Admin App Demo video
